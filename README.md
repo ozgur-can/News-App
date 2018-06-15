@@ -1,2 +1,3 @@
 # News-App
-![gitbub-small](https://github.com/zgrcnltnk/News-App/blob/master/src/img/1.jpeg)
+![](https://github.com/zgrcnltnk/News-App/blob/master/src/img/1.jpg)
+![](https://github.com/zgrcnltnk/News-App/blob/master/src/img/2.jpg)
